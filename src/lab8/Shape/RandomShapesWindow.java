@@ -1,8 +1,6 @@
 package lab8.Shape;
 import javax.swing.*;
 import java.awt.*;
-import java.awt.Rectangle;
-import java.awt.Shape;
 import java.util.Random;
 public class RandomShapesWindow extends JFrame{
     private static final int WINDOW_WIDTH = 800;

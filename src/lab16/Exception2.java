@@ -18,6 +18,7 @@ public class Exception2 {
                 } catch (ArithmeticException e) {
                     System.out.println("Attempted division by zero.");
                 }
+                break;
             case 2:
                 try {
                     System.out.print("Enter an integer: ");
@@ -26,11 +27,11 @@ public class Exception2 {
                     System.out.println(2 / i);
                 } catch (Exception e) {
                     System.out.println("An error occurred: " + e.getMessage());
-                } catch (NumberFormatException e) {
+                }/* catch (NumberFormatException e) {
                     System.out.println("Invalid input. Please enter an integer.");
                 } catch (ArithmeticException e) {
-                    System.out.println("Attempted division by zero.");
-                }
+                    System.out.println("Attempted division by zero.");}*/
+                break;
             case 3:
                 try {
                     System.out.print("Enter an integer: ");
@@ -44,6 +45,7 @@ public class Exception2 {
                 } finally {
                     System.out.println("Finally block executed.");
                 }
+                break;
         }
     }
 }

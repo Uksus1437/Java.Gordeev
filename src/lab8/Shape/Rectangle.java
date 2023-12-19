@@ -1,9 +1,6 @@
 package lab8.Shape;
-import javax.swing.*;
 import java.awt.*;
-import java.awt.Shape;
-import java.util.Random;
-public class Rectangle extends Shape {
+public class Rectangle extends Shape{
     private int width;
     private int height;
 
