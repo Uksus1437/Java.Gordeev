@@ -1,20 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3465aa2f-1997-4140-b282-0098fbf6b819" name="Changes" comment="" />
+    <list default="true" id="3465aa2f-1997-4140-b282-0098fbf6b819" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab1/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/DrunkardGameDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/DrunkardGameLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/DrunkardGameQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/DrunkardGameStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/BoundedWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/IWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/UnfairWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/WaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/Employee/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/Employee/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/Employee/MVCEmployeeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/Student/MVCPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/Student/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/Student/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab16/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/CommandLineArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/HarmonicSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/RandomArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/SumArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Leg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Dish/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Dish/Mug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Dish/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Dish/TestDish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Dog/Breed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Dog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Dog/TestDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Furniture/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Furniture/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Furniture/FurnitureShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Furniture/TestFurniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Animation/AnimationWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Animation/frame1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Animation/frame2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Animation/frame3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Img/ImageDisplayWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Img/frame1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Shape/RandomShapesWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/Nameable/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/Nameable/NameableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/Nameable/Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/Priceable/Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/Priceable/Priceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/Priceable/PriceableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2Zl9k1rTy91722a8w73K9Y7Ztmu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,9 +108,51 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/JavaProjects/Java.Gordeev/src/lab3"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\Java.Gordeev\src\lab3" />
+      <recent name="D:\JavaProjects\Java.Gordeev\src\lab2" />
+      <recent name="D:\JavaProjects\Java.Gordeev\src\lab1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestDog">
+    <configuration name="TestBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.Ball.TestBall" />
+      <module name="Java.Gordeev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.Ball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.Dog.TestDog" />
+      <module name="Java.Gordeev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.Dog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDog" />
+        <item itemvalue="Application.TestBall" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
